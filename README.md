@@ -75,6 +75,6 @@ https://www.udemy.com/topic/github/
 * Marketplace com extensões para adicionar funcionalidades
   ### Referências
 
-https://code.visualstudio.com/
-https://code.visualstudio.com/learn/
-https://www.udemy.com/topic/visual-studio-code/
+* https://code.visualstudio.com/
+* https://code.visualstudio.com/learn/
+* https://www.udemy.com/topic/visual-studio-code/
